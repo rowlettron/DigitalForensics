@@ -48,8 +48,8 @@ def parse_folders(path,df):
             # print('{0},{1},{2},{3},{4},{5},{6}'.format(folder, filename, createdate, lastaccessdatetime, modifieddate, size, filehash))
             insert_row(df, [folder, filename, createdate, lastaccessdatetime, modifieddate, size, filehash])
 
-def export_df_to_excel(df):
-    df.to_excel('Files.xlsx', index=False)
+def export_df_to_csv(df):
+    df.to_csv('Files.csv', index=False)
 
 def main():
     args = get_args()
@@ -58,7 +58,7 @@ def main():
 
     parse_folders(args.path,dfFile)
 
-    export_df_to_excel(dfFile)
+    export_df_to_csv(dfFile)
     
     print(dfFile)
     
