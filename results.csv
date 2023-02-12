@@ -1,0 +1,91 @@
+/Users/ron/Documents/GitHub/HurricaneStats,LICENSE,Thu Sep 29 19:38:28 2022,Sun Oct  2 10:52:38 2022,Thu Sep 29 19:38:27 2022,35149,31a3d460bb3c7d98845187c716a30db81c44b615
+/Users/ron/Documents/GitHub/HurricaneStats,WaterTemperature.csv,Thu Oct  6 19:25:37 2022,Fri Feb 10 20:43:23 2023,Thu Oct  6 19:25:19 2022,1503,42d7f6e55322f2773a73dd3d48c858e16b34bd22
+/Users/ron/Documents/GitHub/HurricaneStats,Hurricanes.py,Fri Oct  7 13:41:38 2022,Sun Oct  9 19:54:49 2022,Fri Oct  7 13:41:38 2022,3899,10dd417eadfe3975cae8a0a21115aa77d97c7268
+/Users/ron/Documents/GitHub/HurricaneStats,README.md,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,58,75e4d8a45e869281663808800334fb1a144e46d2
+/Users/ron/Documents/GitHub/HurricaneStats,.gitignore,Fri Oct  7 08:21:10 2022,Fri Oct  7 08:21:10 2022,Fri Oct  7 08:21:10 2022,1811,aeec3de11181e691cbec1c0864886e6a8bacddb8
+/Users/ron/Documents/GitHub/HurricaneStats,HurricaneData.xlsx,Fri Sep 30 13:43:28 2022,Sun Oct  2 12:39:53 2022,Fri Sep 30 13:43:19 2022,50889,d403e49f5a2d96cc197e56988ee18615ab290e09
+/Users/ron/Documents/GitHub/HurricaneStats,HurricaneStrength.png,Sun Oct  2 11:01:46 2022,Wed Nov  2 20:37:39 2022,Sun Oct  2 10:51:33 2022,115125,bb2f9d0e61e6eb0cd31cb2eebb7dd62517e8f0d6
+/Users/ron/Documents/GitHub/HurricaneStats,NumberOfHurricanes.png,Sun Oct  2 10:52:57 2022,Wed Nov  2 20:37:40 2022,Sun Oct  2 10:50:54 2022,91133,9c7904a50a0082cbcad0b508cfbc700e566d5f95
+/Users/ron/Documents/GitHub/HurricaneStats/.git,ORIG_HEAD,Fri Oct  7 13:41:38 2022,Fri Oct  7 13:41:40 2022,Fri Oct  7 13:41:38 2022,41,75749eb68cd4883c16970d4e203531ad0a733514
+/Users/ron/Documents/GitHub/HurricaneStats/.git,config,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,373,af3acd9fe501464974a40a84f5f88fb3affc3bf9
+/Users/ron/Documents/GitHub/HurricaneStats/.git,HEAD,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,Thu Sep 29 19:38:27 2022,21,9f1df7eea4156be8a871c292b549b3325e425aa2
+/Users/ron/Documents/GitHub/HurricaneStats/.git,description,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,73,9635f1b7e12c045212819dd934d809ef07efa2f4
+/Users/ron/Documents/GitHub/HurricaneStats/.git,index,Fri Oct  7 13:41:38 2022,Sat Feb 11 18:56:10 2023,Fri Oct  7 13:41:38 2022,545,5653bc1c329d7cf81600839e150ac078a1db8ec4
+/Users/ron/Documents/GitHub/HurricaneStats/.git,packed-refs,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,Thu Sep 29 19:38:27 2022,112,8e4795d7fc67dff4a37d01dec42da7ff774995fa
+/Users/ron/Documents/GitHub/HurricaneStats/.git,COMMIT_EDITMSG,Fri Oct  7 08:21:05 2022,Fri Oct  7 08:21:05 2022,Fri Oct  7 08:21:05 2022,21,e846c4d3c0e88f5e192a828fad7ce47f163ab09b
+/Users/ron/Documents/GitHub/HurricaneStats/.git,FETCH_HEAD,Fri Feb 10 19:48:51 2023,Fri Feb 10 19:55:57 2023,Fri Feb 10 19:48:51 2023,104,e845413fec8e6cce1b393b9c6bcd2f1ba421c811
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/50,abc4c0cf8364f3003969474b3b9cdc416d73ce,Fri Oct  7 08:19:47 2022,Fri Oct  7 08:19:47 2022,Fri Oct  7 08:19:47 2022,190,90da1e38ef16648161cd1537d349990a8b081ce3
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/57,d38d47c3e9746dbdbd330f5b0bf15cf6c6fc9e,Fri Sep 30 13:40:49 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 13:40:48 2022,190,0c99641491710961e473cf8105503540cc0d5e03
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/3d,2c902fd371da691e73ebbb2799ed01f931ad25,Thu Oct  6 20:35:23 2022,Thu Oct  6 20:35:27 2022,Thu Oct  6 20:35:22 2022,585,015415a1b25c46dda532262aa54923e93e0accbf
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/5a,75eb3d6b2a10380beebaa68239c92c36a33bab,Fri Sep 30 13:40:49 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 13:40:48 2022,801,227f4332fbb5ab936e38faeecd439f4ffbd404f7
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/a4,8a63f30f4ef261ba528228c30a1cb191994d79,Fri Sep 30 13:43:16 2022,Fri Feb 10 19:58:03 2023,Fri Sep 30 13:43:16 2022,171,89fea6c09cfbe3f56da7ccbd2fe414115ddf3d78
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/a3,41dc66cf7131fb3d18601cab29fe37f5c7d4f9,Thu Sep 29 19:40:58 2022,Wed Oct 19 18:46:35 2022,Thu Sep 29 19:40:57 2022,43574,26ed5030d244abe503234371dfc365d117db7f74
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/bc,2eea5094bd5aa504796821fb68b432d00867a1,Fri Oct  7 08:21:10 2022,Sat Feb 11 18:55:58 2023,Fri Oct  7 08:21:10 2022,223,bbf8c930d9fe3b3fceb26bea4b3af639bc8861f4
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/fb,13644d9453118398ef8047aa3f6a4771640f3a,Fri Sep 30 08:35:01 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 08:35:01 2022,190,9714b7a6159f9318959a5789779d594fbf58476b
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/20,c2e7678aba488b0f53b6bfe3515fcf8dd84dc1,Fri Oct  7 12:54:24 2022,Fri Feb 10 19:48:41 2023,Fri Oct  7 12:54:24 2022,1284,1ed5b8a0a143947e1e102f970ad09325bedef02e
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/pack,pack-dff3a9dc485f259bfee6e4925543f17086c43f48.pack,Thu Sep 29 19:38:28 2022,Fri Feb 10 19:58:03 2023,Thu Sep 29 19:38:27 2022,13809,764e638aee976b516d379f5edc242dc20d8b5572
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/pack,pack-dff3a9dc485f259bfee6e4925543f17086c43f48.idx,Thu Sep 29 19:38:28 2022,Sat Feb 11 18:56:10 2023,Thu Sep 29 19:38:27 2022,1212,3f1cca998c68582f13d5b7868ead47e91e01cff2
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/87,a6b1a7b427b2f2a8b722fe8c07c961c87ecd4b,Thu Oct  6 20:35:23 2022,Fri Feb 10 19:58:03 2023,Thu Oct  6 20:35:22 2022,246,f0201e85cd3796887e40c87a536420fc5bae5a2f
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/80,53a7ba4b09f94d9cd21c357e08e456fde0028a,Thu Sep 29 19:40:58 2022,Wed Oct 19 18:46:35 2022,Thu Sep 29 19:40:57 2022,163,479bac80fe0386b950c92f8b6ff63f688296023b
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/4d,b0a03d396d9f87fd99b23b91f017b3e5043965,Fri Sep 30 13:43:16 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 13:43:16 2022,190,26737800259f939cd8a6518238d16bb0265d445a
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/2a,8682e134c3ef37d891306509a5d7d46a51b41a,Fri Oct  7 08:19:47 2022,Fri Feb 10 19:58:03 2023,Fri Oct  7 08:19:47 2022,162,abb691abc3565900cd52c00d54d25e11de8c1bb9
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/6b,5c6c87e3e2656aed15cc9fd6e0a8762ae609ca,Sun Oct  2 12:39:54 2022,Fri Oct  7 08:21:36 2022,Sun Oct  2 12:39:53 2022,1014,0fdb252554c7edf46bf70ead80e97694eb39a569
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/6e,b98cfcea7c37184591823bf1491c670514d4c7,Fri Oct  7 08:19:47 2022,Fri Feb 10 19:58:03 2023,Fri Oct  7 08:19:47 2022,223,39d746f54aa62dd020e37036f958b98f966ac9c0
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/09,fc63b803bad5537e543431e820b26f6bd64445,Thu Oct  6 20:35:23 2022,Wed Oct 19 18:46:35 2022,Thu Oct  6 20:35:22 2022,1170,806d82dc0bcf48a6d8c7f3eab6f939fa6ca76363
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/54,57ad92af0e65e515cffe739dce0fc41c7599b2,Thu Oct  6 20:35:23 2022,Wed Oct 19 18:46:35 2022,Thu Oct  6 20:35:22 2022,235,2f88f669aeaef756bf986052d18b6030a959a105
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/3f,b85f2ca573f5293ac91e4094179cba854b7d8b,Fri Oct  7 12:54:24 2022,Sat Feb 11 18:56:10 2023,Fri Oct  7 12:54:24 2022,165,001f52b0ac3980e48b4d2a16f554e7d4aac36e19
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/6c,5fe513774528e0e3a9fb7322dba4961b4fcca3,Fri Sep 30 13:40:49 2022,Fri Feb 10 19:48:41 2023,Fri Sep 30 13:40:48 2022,166,49a44dd7e30201b2f37d0d6fe14a8dabba1831ce
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/d4,5e9a276ca3daea698f2c44ec82f22abc34d253,Fri Oct  7 08:21:06 2022,Fri Feb 10 19:58:03 2023,Fri Oct  7 08:21:05 2022,165,337c768c7dcffaaad9ad3b1f1ed5180168840f3a
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/dd,047db743d24fd8d57f0a0d9f4d580fa0723402,Fri Sep 30 08:35:01 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 08:35:01 2022,43589,a1da2fa8b17c526f1dedf7c6d8884fc13c1a4d7e
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/d2,cff8bec7f40615aa4e1329ef3c9139f5e2f271,Fri Oct  7 08:21:06 2022,Fri Feb 10 19:48:41 2023,Fri Oct  7 08:21:05 2022,1181,1840fbd488c8f1a35819fe11bd63d246665b79bb
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/f9,9980ecc783436deff6828648a36f163d6592ea,Fri Sep 30 13:40:49 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 13:40:48 2022,883,8dda323ed9335c329f37249198cffd4a014f64c6
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/fa,56de04ec8577fe892d23de29944acd48f76534,Fri Oct  7 08:19:47 2022,Fri Oct  7 08:21:15 2022,Fri Oct  7 08:19:47 2022,234,9c6240d31b153ac1f6478ef7f4320dd2801c9a48
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/c5,ead98361d023b606a863e2e8c3b92605661797,Fri Sep 30 13:43:16 2022,Sun Oct  2 12:38:47 2022,Fri Sep 30 13:43:16 2022,47052,11928762a4f5c2de9355cf5379290079695d2ceb
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/c2,bcf4b5a4648fa1dbce6e06e67d47874109ba1b,Sun Oct  2 12:39:54 2022,Wed Oct 19 18:46:35 2022,Sun Oct  2 12:39:53 2022,996,0bb79678e57e17121f752ed86a198a6ed2815ef4
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/2c,ca42c6028cd680a08f278b1de0c45f89acc31a,Sun Oct  2 12:39:54 2022,Wed Oct 19 18:46:35 2022,Sun Oct  2 12:39:53 2022,191,0456d5a381a5c98c1e2b89407e23fdd529a5e8a7
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/2c,2d16887780bbcdd6c928693b3659f0aee1ba76,Fri Sep 30 13:40:49 2022,Sun Oct  2 12:38:47 2022,Fri Sep 30 13:40:48 2022,47054,88b7a5398d0910f1b1c0b8eaad14790671c5aca6
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/41,83f64c576c6869b7f88beee30a3cf77e07f340,Fri Oct  7 08:19:47 2022,Fri Oct  7 08:21:36 2022,Fri Oct  7 08:19:47 2022,1019,b5fc0972a9e26eb805a6c59d116a37e5e76081bf
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/83,8f0962738616c710063a73c754df4468afc873,Fri Sep 30 08:35:01 2022,Fri Feb 10 19:58:03 2023,Fri Sep 30 08:35:01 2022,189,3749def445300ab0629bb5f88a85e9865f071f7b
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/1e,2b1f4439753629561c17f652164da2d0c663ab,Fri Sep 30 13:40:49 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 13:40:48 2022,190,953f633a2e470c3a5d4bf59edf2229a5433e7619
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/12,137040c18859d6fc85b2e2b0abdca462acbca1,Fri Sep 30 13:40:49 2022,Fri Feb 10 19:58:03 2023,Fri Sep 30 13:40:48 2022,221,c9bdb69788ed0d682c7ebeb8829be598bf3bd89a
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/76,faa836d59f206a2bc92ce0eb509429213bb9db,Fri Oct  7 12:54:24 2022,Sat Feb 11 18:56:10 2023,Fri Oct  7 12:54:24 2022,234,d196b3fcf42c2aa577227f2363e46c7c7f3a6a7e
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/76,74f2a5b6b688755a854dc3cecf6dde85ab5f36,Fri Oct  7 08:21:10 2022,Fri Feb 10 19:48:41 2023,Fri Oct  7 08:21:10 2022,235,bd3447bd0a74268ed4ec82356242b82050fa2cd9
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/2b,ec831ff6baa0cf75a13f10be9129c23d11f22f,Sun Oct  2 12:39:54 2022,Fri Feb 10 19:58:03 2023,Sun Oct  2 12:39:53 2022,213,678dbed70fae50fc8a455fe96f8787fe38ca5a76
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/78,0551bc55afa07be447e777049966f356b6efe3,Fri Sep 30 08:35:01 2022,Wed Oct 19 18:46:35 2022,Fri Sep 30 08:35:01 2022,540,0e11e8b6f1983cef659ab7b6594f3d422ca21649
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/7f,454489b8929a70624c672d8a1e8cecefb72e04,Thu Sep 29 19:40:58 2022,Fri Feb 10 19:58:03 2023,Thu Sep 29 19:40:57 2022,168,2b194742d5b319ca0f27e96ded5cf65ba2f999d6
+/Users/ron/Documents/GitHub/HurricaneStats/.git/objects/7a,cda45836c376014bfc90f7cea6fa673ab49749,Fri Oct  7 08:21:06 2022,Wed Oct 19 18:46:35 2022,Fri Oct  7 08:21:05 2022,235,b41eb0d697112c3f72d89da9cc2beb10bbb897a5
+/Users/ron/Documents/GitHub/HurricaneStats/.git/info,exclude,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,240,c879df015d97615050afa7b9641e3352a1e701ac
+/Users/ron/Documents/GitHub/HurricaneStats/.git/logs,HEAD,Fri Oct  7 13:41:38 2022,Fri Oct  7 13:41:39 2022,Fri Oct  7 13:41:38 2022,1818,0fa1c822fc3dcda4ab378bc6791f82694ee785f9
+/Users/ron/Documents/GitHub/HurricaneStats/.git/logs/refs/heads,main,Fri Oct  7 13:41:38 2022,Fri Oct  7 13:41:40 2022,Fri Oct  7 13:41:38 2022,1818,0fa1c822fc3dcda4ab378bc6791f82694ee785f9
+/Users/ron/Documents/GitHub/HurricaneStats/.git/logs/refs/remotes/origin,HEAD,Fri Feb 10 19:48:51 2023,Fri Feb 10 20:51:22 2023,Fri Feb 10 19:48:51 2023,15957,4f070407d766848825d287ea029880f396bb4243
+/Users/ron/Documents/GitHub/HurricaneStats/.git/logs/refs/remotes/origin,main,Fri Oct  7 12:54:24 2022,Fri Oct  7 13:43:00 2022,Fri Oct  7 12:54:24 2022,1487,f9d8451a62291e42564dbfa2d65061982f8e77e8
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,commit-msg.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,896,ee1ed5aad98a435f2020b6de35c173b75d9affac
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,pre-rebase.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,4898,288efdc0027db4cfd8b7c47c4aeddba09b6ded12
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,pre-commit.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,1643,a79d057388ee2c2fe6561d7697f1f5efcff96f23
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,applypatch-msg.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,478,4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,fsmonitor-watchman.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,4655,118ff5509f187039734d04456bf01e44c933ac19
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,pre-receive.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:38:27 2022,544,705a17d259e7896f0082fe2e9f2c0c3b127be5ac
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,prepare-commit-msg.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,1492,2584806ba147152ae005cb675aa4f01d5d068456
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,post-update.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,189,b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,pre-merge-commit.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,416,04c64e58bc25c149482ed45dbd79e40effb89eb7
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,pre-applypatch.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,424,f208287c1a92525de9f5462e905a9d31de1e2d75
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,pre-push.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,1374,a599b773b930ca83dbc3a5c7c13059ac4a6eaedc
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,update.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,3650,730e6bd5225478bab6147b7a62a6e2ae21d40507
+/Users/ron/Documents/GitHub/HurricaneStats/.git/hooks,push-to-checkout.sample,Thu Sep 29 19:38:28 2022,Thu Sep 29 19:41:04 2022,Thu Sep 29 19:38:27 2022,2783,508240328c8b55f8157c93c43bf5e291e5d2fbcb
+/Users/ron/Documents/GitHub/HurricaneStats/.git/refs/heads,main,Fri Oct  7 13:41:38 2022,Fri Oct  7 13:41:38 2022,Fri Oct  7 13:41:38 2022,41,e57149a77175edf7ae13303a2b5b15d9f3da7c06
+/Users/ron/Documents/GitHub/HurricaneStats/.git/refs/remotes/origin,HEAD,Fri Feb 10 19:48:51 2023,Fri Feb 10 19:48:51 2023,Fri Feb 10 19:48:51 2023,30,5ae7c22895c35af5f56ba1891a4dd62b4dc1f955
+/Users/ron/Documents/GitHub/HurricaneStats/.git/refs/remotes/origin,main,Fri Oct  7 12:54:24 2022,Fri Oct  7 12:54:24 2022,Fri Oct  7 12:54:24 2022,41,e57149a77175edf7ae13303a2b5b15d9f3da7c06
+                                               Folder  ...                                  FileHash
+0          /Users/ron/Documents/GitHub/HurricaneStats  ...  31a3d460bb3c7d98845187c716a30db81c44b615
+1          /Users/ron/Documents/GitHub/HurricaneStats  ...  42d7f6e55322f2773a73dd3d48c858e16b34bd22
+2          /Users/ron/Documents/GitHub/HurricaneStats  ...  10dd417eadfe3975cae8a0a21115aa77d97c7268
+3          /Users/ron/Documents/GitHub/HurricaneStats  ...  75e4d8a45e869281663808800334fb1a144e46d2
+4          /Users/ron/Documents/GitHub/HurricaneStats  ...  aeec3de11181e691cbec1c0864886e6a8bacddb8
+..                                                ...  ...                                       ...
+72  /Users/ron/Documents/GitHub/HurricaneStats/.gi...  ...  730e6bd5225478bab6147b7a62a6e2ae21d40507
+73  /Users/ron/Documents/GitHub/HurricaneStats/.gi...  ...  508240328c8b55f8157c93c43bf5e291e5d2fbcb
+74  /Users/ron/Documents/GitHub/HurricaneStats/.gi...  ...  e57149a77175edf7ae13303a2b5b15d9f3da7c06
+75  /Users/ron/Documents/GitHub/HurricaneStats/.gi...  ...  5ae7c22895c35af5f56ba1891a4dd62b4dc1f955
+76  /Users/ron/Documents/GitHub/HurricaneStats/.gi...  ...  e57149a77175edf7ae13303a2b5b15d9f3da7c06
+
+[77 rows x 7 columns]
