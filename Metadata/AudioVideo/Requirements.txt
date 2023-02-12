@@ -1,3 +1,6 @@
 install mutagen
 pip install mutagen
 
+https://www.google.com/search?q=python+mutagen+mp3+examples&sxsrf=AJOqlzUh0abTk7HmaZaa2NNw5P60IAW67g%3A1676237907282&source=hp&ei=U1zpY-GpDuexqtsPibSY4A4&iflsig=AK50M_UAAAAAY-lqY1lv9O9y_yKLJRUHyu_zHfF-Wgd8&oq=python+mutagen+mp3&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgkIABAWEB4Q8QQyCQgAEBYQHhDxBDIGCAAQFhAeMgUIABCGAzoECCMQJzoFCAAQkQI6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToLCC4QgAQQsQMQgwE6CwguEMcBEK8BEJECOhAIABCABBAUEIcCELEDEIMBOggIABCABBCxAzoKCAAQgAQQFBCHAjoFCCEQoAFQAFjEWGDrc2gBcAB4AIABrQOIAd0OkgEIMTcuMS40LTGYAQCgAQE&sclient=gws-wiz
+
+https://mutagen.readthedocs.io/en/latest/user/gettingstarted.html

@@ -1,0 +1,6 @@
+install xlsxwriter
+install image
+install pyscreenshot
+install numpy
+install matplotlib
+

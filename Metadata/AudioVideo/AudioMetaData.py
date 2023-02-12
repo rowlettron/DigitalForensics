@@ -21,6 +21,7 @@ def handle_id3(id3_file):
          text = str(text)
       print("{:15} | {:15} | {:38} | {}".format(
          frame_name, desc, text, value))
+
 def handle_mp4(mp4_file):
    cp_sym = u"\u00A9"
    qt_tag = {
@@ -34,6 +35,16 @@ def handle_mp4(mp4_file):
       'desc': 'Description', 'ldes': 'Long Description'}
    genre_ids = json.load(open('apple_genres.json'))
 
+   for name, value in mp4_file.tags.items():
+      tag_name = qt_tag.get(name, name)
+      
+      if isinstance(value, list):
+         value = "; ".join([str(x) for x in value])
+      if name == 'geID':
+         value = "{}: {}".format(
+         value, genre_ids[str(value)].replace("|", " - "))
+      print("{:22} | {}".format(tag_name, value))
+
 if __name__ == '__main__':
    parser = argparse.ArgumentParser('Python Metadata Extractor')
    parser.add_argument("AV_FILE", help="File to extract metadata from")
@@ -43,19 +54,11 @@ if __name__ == '__main__':
    
    if file_ext.lower() == 'mp3':
       handle_id3(av_file)
-   elif file_ext.lower() == 'mp4':
-      handle_mp4(av_file)
+   # elif file_ext.lower() == 'mp4':
+   #    handle_mp4(av_file)
 
-print("{:22} | {}".format('Name', 'Value'))
-print("-" * 40)
+   print("{:22} | {}".format('Name', 'Value'))
+   print("-" * 40)
 
-for name, value in mp4_file.tags.items():
-   tag_name = qt_tag.get(name, name)
-   
-   if isinstance(value, list):
-      value = "; ".join([str(x) for x in value])
-   if name == 'geID':
-      value = "{}: {}".format(
-      value, genre_ids[str(value)].replace("|", " - "))
-   print("{:22} | {}".format(tag_name, value))
+
 
