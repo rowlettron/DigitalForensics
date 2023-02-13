@@ -2,7 +2,7 @@ from __future__ import print_function
 
 import argparse
 import json
-import mutagen
+from mutagen.mp3 import MP3
 
 def handle_id3(id3_file):
    id3_frames = {'TIT2': 'Title', 'TPE1': 'Artist', 'TALB': 'Album','TXXX':
